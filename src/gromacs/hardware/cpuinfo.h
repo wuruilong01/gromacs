@@ -88,6 +88,7 @@ public:
         Hygon,   //!< HygonGenuine
         RiscV32, //!< RISC-V 32 bit
         RiscV64, //!< RISC-V 64 bit
+        Loongson,//!< Loongson
     };
 
     /*! \brief List of CPU features
